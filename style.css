@@ -1,5 +1,5 @@
 .cabeçalho{
-    background-image: linear-gradient(rgb(255, 205, 248), #c61add);
+    background-image: linear-gradient(rgb(228, 156, 74), #4a2c4e);
     align-items: center;
 }
 
@@ -28,7 +28,7 @@
     padding: 3%;
 }
 .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(255, 205, 248), #c61add);
+    background-image: linear-gradient(rgb(228, 156, 74), #4a2c4e);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -51,8 +51,8 @@
     width: 10%;    
 }
 .cabeçalho{
-    background-color:( rgb(249, 205, 255), #c61add);
-    color: rgba(49, 29, 29, 0.966);
+    background-image: linear-gradient(rgb(228, 156, 74), #4a2c4e);
+    color: rgba(49, 29, 29, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -60,7 +60,7 @@
     padding: 3%;
 }
 .cabeçalho_titulo2{
-    background-image: linear-gradient(rgb(255, 205, 248), #c61add);
+    background-image: linear-gradient(rgb(228, 156, 74), #4a2c4e);
     display: flex;
     justify-content: space-around;
     align-items: center;
